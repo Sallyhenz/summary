@@ -1,0 +1,20 @@
+[33mcommit 95a6930f312fcf6f43d0235079af4df9becec993[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: sallyhenz <sallyhenz@gmai.com>
+Date:   Mon Dec 25 17:48:20 2023 +0100
+
+    first commit
+
+[1mdiff --git a/summary.txt b/summary.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..02fa446[m
+[1m--- /dev/null[m
+[1m+++ b/summary.txt[m
+[36m@@ -0,0 +1,8 @@[m
+[32m+[m[32msally[m
+[32m+[m[32mjonah[m
+[32m+[m[32mwisdom[m
+[32m+[m[32mvera[m
+[32m+[m[32mlex[m
+[32m+[m[32mmaxy[m
+[32m+[m[32mayo[m
+[32m+[m[32msamuel[m
