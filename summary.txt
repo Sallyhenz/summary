@@ -6,3 +6,9 @@ lex
 maxy
 ayo
 samuel
+
+Aimien
+Jazz
+Aunty
+Uncle
+
